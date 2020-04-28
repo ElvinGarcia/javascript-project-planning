@@ -58,7 +58,7 @@ look through!
    advance of their project review as a way to practice talking through your
    code.
 
-We are here to help!  Each week, there are Open Office Hour [study groups][]
+We are here to help!  Each week, there are Open Office Hour [study groups](https://learn.co/study-groups)
 specifically designed to help with your JavaScript project questions. Also, keep
 an eye out for topic-based JS study groups if you feel shaky on any specific
 concepts.
